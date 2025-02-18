@@ -1,0 +1,2 @@
+# Unhandled ArithmeticException in Scala
+This repository demonstrates an example of an unhandled `ArithmeticException` in Scala and provides a solution for more robust error handling.  The `bug.scala` file contains the problematic code, while `bugSolution.scala` shows an improved version.  The original code throws an exception when division by zero is attempted. The solution provides a try-catch block to gracefully handle this scenario and prevent application crashes.
